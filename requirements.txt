@@ -1,0 +1,4 @@
+apscheduler==3.7.0
+peewee==3.14.4
+Pyrogram
+coloredlogs==15.0.1

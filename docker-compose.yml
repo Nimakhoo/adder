@@ -1,0 +1,7 @@
+services:
+  bot:
+    build: .
+    stdin_open: true
+    tty: true
+    volumes: 
+      - ./:/add-member-ubuntu
